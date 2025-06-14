@@ -1,0 +1,23 @@
+smali_classes2/com/univision/descarga/presentation/d$a.smali:        "dashVodWithPreroll",
+smali_classes2/com/univision/descarga/presentation/models/video/AdType$a.smali:    const-string v0, "preroll"
+smali_classes2/com/univision/descarga/presentation/models/video/AdType$a.smali:    sget-object p1, Lcom/univision/descarga/presentation/models/video/AdType;->PREROLL:Lcom/univision/descarga/presentation/models/video/AdType;
+smali_classes2/com/univision/descarga/presentation/models/video/AdType.smali:        "PREROLL",
+smali_classes2/com/univision/descarga/presentation/models/video/AdType.smali:.field public static final enum PREROLL:Lcom/univision/descarga/presentation/models/video/AdType;
+smali_classes2/com/univision/descarga/presentation/models/video/AdType.smali:    sget-object v2, Lcom/univision/descarga/presentation/models/video/AdType;->PREROLL:Lcom/univision/descarga/presentation/models/video/AdType;
+smali_classes2/com/univision/descarga/presentation/models/video/AdType.smali:    const-string v2, "preroll"
+smali_classes2/com/univision/descarga/presentation/models/video/AdType.smali:    const-string v3, "PREROLL"
+smali_classes2/com/univision/descarga/presentation/models/video/AdType.smali:    sput-object v0, Lcom/univision/descarga/presentation/models/video/AdType;->PREROLL:Lcom/univision/descarga/presentation/models/video/AdType;
+smali_classes2/com/univision/descarga/presentation/models/video/c.smali:    const-string v1, "&vpi=1&vpa=1&vconp=0&vpos=preroll&msid="
+smali_classes2/com/univision/descarga/videoplayer/AdsWrapper.smali:    sget-object v4, Lcom/univision/descarga/presentation/models/video/AdType;->PREROLL:Lcom/univision/descarga/presentation/models/video/AdType;
+smali_classes2/com/univision/descarga/videoplayer/player/c.smali:    sget-object v0, Lcom/univision/descarga/presentation/models/video/AdType;->PREROLL:Lcom/univision/descarga/presentation/models/video/AdType;
+smali_classes2/com/univision/descarga/videoplayer/player/c.smali:    const-string v2, "preroll"
+smali_classes2/com/univision/descarga/videoplayer/player/c.smali:    sget-object v1, Lcom/univision/descarga/presentation/models/video/AdType;->PREROLL:Lcom/univision/descarga/presentation/models/video/AdType;
+smali_classes2/com/univision/descarga/videoplayer/player/c.smali:    sget-object v2, Lcom/univision/descarga/presentation/models/video/AdType;->PREROLL:Lcom/univision/descarga/presentation/models/video/AdType;
+smali_classes2/com/univision/descarga/videoplayer/VideoPlayerFragment$w.smali:    const-string v8, "preroll"
+smali_classes2/e/g.smali:    const-string v2, "PREROLL"
+smali_classes3/b/d.smali:    const-string v0, "preroll"
+smali_classes3/com/akta/luraplayer/api/constants/d.smali:    const-string v1, "^(?<textPosition>start|preroll|end|postroll)|(?<timePosition>\\d{2}:\\d{2}:\\d{2}\\.\\d{3}|\\d{2}:\\d{2}:\\d{2})|(?<percentagePosition>(?:0(?:\\.0+)?|100)|(?:[1-9](?:\\d*\\.)?|0)(?:0|[1-9]\\d*)%)$"
+smali_classes3/com/conviva/api/g.smali:    const-string v1, "PREROLL"
+smali_classes3/com/conviva/sdk/j.smali:    const-string v1, "PREROLL"
+smali_classes5/com/iab/omid/library/aktatech/adsession/media/c.smali:    const-string v1, "preroll"
+smali_classes5/com/iab/omid/library/aktatech/adsession/media/c.smali:    const-string v2, "PREROLL"
